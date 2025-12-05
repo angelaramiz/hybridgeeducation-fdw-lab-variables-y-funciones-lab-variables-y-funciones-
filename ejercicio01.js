@@ -3,6 +3,8 @@
 
 function obtenerNombre() {
     // Escribe tu código aquí
+    var nombre = "Angel_Aramiz_Castillo_Bautista"
+    return nombre;
 }
 
 // No modificar.
